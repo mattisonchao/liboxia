@@ -1,2 +1,2 @@
 # liboxia
-StreamNative Oxia C/C++ Client
+StreamNative Oxia C Client
